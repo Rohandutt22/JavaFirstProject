@@ -1,2 +1,0 @@
-# JavaFirstProject
-first maven project
